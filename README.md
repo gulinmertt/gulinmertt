@@ -1,6 +1,5 @@
 # Hi! I'm Gülin
 
---
 
 ## About Me
 - Graduated with the highest honors in Management Information Systems from Ankara Medipol University.
