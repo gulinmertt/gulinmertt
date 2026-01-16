@@ -6,7 +6,6 @@
 - Gained practical experience in projects related to Business Analysis, Business Intelligence, Data Analytics, and Artificial Intelligence.
 - Continue to develop my skills by contributing to transforming business requirements into data-driven solutions, supporting data-driven decision-making and analytical reporting through projects in these areas.
 
---
 
 ## My Interests
 - Data Analysis
@@ -17,14 +16,12 @@
 - Artificial Intelligence (AI)
 - Project Management
 
---
 
 ## Projects 
 
 
 
 
---
 
 ## Skills
 - Python (NumPy, Pandas, Scikit-Learn)
