@@ -1,11 +1,15 @@
-Hi! I'm Gülin
+# Hi! I'm Gülin
 
-About Me
+--
+
+## About Me
 - Graduated with the highest honors in Management Information Systems from Ankara Medipol University.
 - Gained practical experience in projects related to Business Analysis, Business Intelligence, Data Analytics, and Artificial Intelligence.
 - Continue to develop my skills by contributing to transforming business requirements into data-driven solutions, supporting data-driven decision-making and analytical reporting through projects in these areas.
 
-My Interests
+--
+
+## My Interests
 - Data Analysis
 - Business Analytics
 - Data Visualization
@@ -14,12 +18,16 @@ My Interests
 - Artificial Intelligence (AI)
 - Project Management
 
-Projects 
+--
+
+## Projects 
 
 
 
 
-Skills
+--
+
+## Skills
 - Python (NumPy, Pandas, Scikit-Learn)
 - R (Tidyverse, Shiny)
 - SQL (MySQL, MS SQL Server, BigQuery)
